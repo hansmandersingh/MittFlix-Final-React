@@ -4,9 +4,9 @@
   "private": true,
   "dependencies": {
     "json-server": "^0.16.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-router-dom": "^5.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.0.1"
   },
   "scripts": {
@@ -32,6 +32,6 @@
     ]
   },
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.9.0"
+    "@fortawesome/fontawesome-free": "^5.13.0"
   }
 }
